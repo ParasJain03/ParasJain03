@@ -1,16 +1,110 @@
-## Hi there 👋
+# Hi, I'm Paras Jain 👋
 
-<!--
-**ParasJain03/ParasJain03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Artificial Intelligence) — KIET Group of Institutions (2027)  
+📊 Aspiring **Data Analyst / Data Scientist**  
+📍 India  
 
-Here are some ideas to get you started:
+I build **data-driven solutions using machine learning, analytics, and business intelligence** to solve real-world business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently interested in:
+
+• Data Analytics  
+• Machine Learning  
+• Financial Risk Modeling  
+• Business Intelligence & Dashboards  
+
+---
+
+# 🚀 Featured Projects
+
+## 🏦 Credit Risk Scorecard — IFRS-9 PD Model
+
+A **bank-style credit risk model** that predicts borrower **Probability of Default (PD)** and converts it into a **credit score** used for loan decisions.
+
+Features:
+
+• Logistic Regression PD Model  
+• Feature Engineering  
+• Credit Scorecard Generation  
+• IFRS-9 Expected Credit Loss Estimation  
+• Streamlit Risk Dashboard  
+
+Tech Stack:
+
+Python • Scikit-Learn • SHAP • Streamlit • Power BI  
+
+🔗 **Live Demo**  
+https://credit-risk-scorecard.streamlit.app  
+
+🔗 **Repository**  
+https://github.com/ParasJain03/Credit-Risk-Scorecard  
+
+---
+
+## 📊 Customer Churn Analytics
+
+End-to-end **customer churn analytics project** using SQL, Power BI, and machine learning.
+
+Pipeline:
+
+CSV → SQL Server ETL → Data Cleaning → Power BI Dashboard → Random Forest Prediction  
+
+Business Insights:
+
+• Identifies high-risk churn segments  
+• Analyzes churn by demographics and services  
+• Predicts future churners using ML  
+
+Tools Used:
+
+SQL Server • Power BI • Python • Scikit-Learn  
+
+---
+
+# 🛠 Technical Skills
+
+### Programming
+Python  
+SQL  
+
+### Data Analysis
+Pandas  
+NumPy  
+
+### Data Visualization
+Power BI  
+Matplotlib  
+Seaborn  
+
+### Machine Learning
+Logistic Regression  
+Random Forest  
+Model Evaluation  
+
+### Tools
+Git  
+GitHub  
+Jupyter Notebook  
+Google Colab  
+
+---
+
+# 📊 GitHub Stats
+
+![Paras GitHub stats](https://github-readme-stats.vercel.app/api?username=ParasJain03&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParasJain03&layout=compact)
+
+---
+
+# 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-parasjainparas310@gmail.com-red)](mailto:parasjainparas310@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/paras-jain-9b4a4023b/)
+
+[![Phone](https://img.shields.io/badge/Phone-%2B919410243682-green)]()
+
+---
+
+⭐ If you find my projects interesting, feel free to **star the repositories**!
