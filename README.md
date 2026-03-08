@@ -104,11 +104,6 @@ Google Colab
 
 ---
 
-# 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ParasJain03)
-
----
 
 # 📚 Currently Learning
 
