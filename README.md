@@ -1,17 +1,24 @@
 # Hi, I'm Paras Jain 👋
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![Power BI](https://img.shields.io/badge/Visualization-Power%20BI-yellow)
+![Finance Analytics](https://img.shields.io/badge/Domain-Credit%20Risk-green)
+
 🎓 B.Tech CSE (Artificial Intelligence) — KIET Group of Institutions (2027)  
 📊 Aspiring **Data Analyst / Data Scientist**  
 📍 India  
 
 I build **data-driven solutions using machine learning, analytics, and business intelligence** to solve real-world business problems.
 
-Currently interested in:
+---
 
-• Data Analytics  
-• Machine Learning  
-• Financial Risk Modeling  
-• Business Intelligence & Dashboards  
+# 👨‍💻 About Me
+
+• B.Tech CSE (AI) student at KIET Group of Institutions  
+• Interested in Data Analytics, Machine Learning, and Finance Analytics  
+• Passionate about solving business problems using data  
+• Currently building projects in **credit risk modeling and customer analytics**
 
 ---
 
@@ -19,25 +26,25 @@ Currently interested in:
 
 ## 🏦 Credit Risk Scorecard — IFRS-9 PD Model
 
-A **bank-style credit risk model** that predicts borrower **Probability of Default (PD)** and converts it into a **credit score** used for loan decisions.
+A **bank-style credit risk model** that predicts borrower **Probability of Default (PD)** and converts it into a **credit score used for loan approval decisions**.
 
-Features:
+Key Features
 
 • Logistic Regression PD Model  
-• Feature Engineering  
+• Feature Engineering & Calibration  
 • Credit Scorecard Generation  
 • IFRS-9 Expected Credit Loss Estimation  
 • Streamlit Risk Dashboard  
 
-Tech Stack:
+Tech Stack  
 
 Python • Scikit-Learn • SHAP • Streamlit • Power BI  
 
-🔗 **Live Demo**  
+🔗 Live Demo  
 https://credit-risk-scorecard.streamlit.app  
 
-🔗 **Repository**  
-https://github.com/ParasJain03/Credit-Risk-Scorecard  
+🔗 Repository  
+https://github.com/ParasJain03/Credit-Risk-Scorecard
 
 ---
 
@@ -45,19 +52,19 @@ https://github.com/ParasJain03/Credit-Risk-Scorecard
 
 End-to-end **customer churn analytics project** using SQL, Power BI, and machine learning.
 
-Pipeline:
+Pipeline
 
 CSV → SQL Server ETL → Data Cleaning → Power BI Dashboard → Random Forest Prediction  
 
-Business Insights:
+Business Insights
 
 • Identifies high-risk churn segments  
 • Analyzes churn by demographics and services  
-• Predicts future churners using ML  
+• Predicts future churners using ML models  
 
-Tools Used:
+Tools Used
 
-SQL Server • Power BI • Python • Scikit-Learn  
+SQL Server • Power BI • Python • Scikit-Learn
 
 ---
 
@@ -89,7 +96,7 @@ Google Colab
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 ![Paras GitHub stats](https://github-readme-stats.vercel.app/api?username=ParasJain03&show_icons=true)
 
@@ -97,14 +104,29 @@ Google Colab
 
 ---
 
+# 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ParasJain03)
+
+---
+
+# 📚 Currently Learning
+
+• Advanced Data Analytics  
+• Financial Risk Modeling  
+• Feature Engineering for Machine Learning  
+• Business Intelligence Dashboards  
+
+---
+
 # 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-parasjainparas310@gmail.com-red)](mailto:parasjainparas310@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/paras-jain-9b4a4023b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/paras-jain-9b4a4023b)
 
 [![Phone](https://img.shields.io/badge/Phone-%2B919410243682-green)]()
 
 ---
 
-⭐ If you find my projects interesting, feel free to **star the repositories**!
+⭐ If you find my projects interesting, feel free to **star the repositories**.
