@@ -96,14 +96,6 @@ Google Colab
 
 ---
 
-# 📊 GitHub Statistics
-
-![Paras GitHub stats](https://github-readme-stats.vercel.app/api?username=ParasJain03&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParasJain03&layout=compact)
-
----
-
 
 # 📚 Currently Learning
 
