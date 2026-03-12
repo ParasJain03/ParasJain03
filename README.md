@@ -1,3 +1,7 @@
+<p align="center">
+<img src="github_banner.png" width="100%">
+</p>
+
 # Hi, I'm Paras Jain 👋
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
