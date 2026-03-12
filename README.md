@@ -3,21 +3,21 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
 ![Power BI](https://img.shields.io/badge/Visualization-Power%20BI-yellow)
-![Finance Analytics](https://img.shields.io/badge/Domain-Credit%20Risk-green)
+![SQL](https://img.shields.io/badge/Database-SQL-green)
 
-🎓 B.Tech CSE (Artificial Intelligence) — KIET Group of Institutions (2027)  
+🎓 **B.Tech CSE (Artificial Intelligence)** — KIET Group of Institutions (2027)  
 📊 Aspiring **Data Analyst / Data Scientist**  
 📍 India  
 
-I build **data-driven solutions using machine learning, analytics, and business intelligence** to solve real-world business problems.
+I build **data-driven solutions using analytics, machine learning, and business intelligence** to solve real-world business problems.
 
 ---
 
 # 👨‍💻 About Me
 
-• B.Tech CSE (AI) student at KIET Group of Institutions  
-• Interested in Data Analytics, Machine Learning, and Finance Analytics  
-• Passionate about solving business problems using data  
+• B.Tech CSE (AI) student at **KIET Group of Institutions**  
+• Interested in **Data Analytics, Machine Learning, and Financial Analytics**  
+• Passionate about solving **business problems using data-driven insights**  
 • Currently building projects in **credit risk modeling and customer analytics**
 
 ---
@@ -26,76 +26,71 @@ I build **data-driven solutions using machine learning, analytics, and business 
 
 ## 🏦 Credit Risk Scorecard — IFRS-9 PD Model
 
-A **bank-style credit risk model** that predicts borrower **Probability of Default (PD)** and converts it into a **credit score used for loan approval decisions**.
+A **bank-style credit risk modeling system** that predicts borrower **Probability of Default (PD)** and converts it into a **credit score used in loan approval decisions**.
 
-Key Features
+### Key Features
 
-• Logistic Regression PD Model  
-• Feature Engineering & Calibration  
-• Credit Scorecard Generation  
-• IFRS-9 Expected Credit Loss Estimation  
-• Streamlit Risk Dashboard  
+• Logistic Regression Probability of Default model  
+• Feature Engineering & Scorecard Calibration  
+• Credit Scorecard generation for risk assessment  
+• IFRS-9 Expected Credit Loss estimation  
+• Interactive **Streamlit risk dashboard**
 
-Tech Stack  
+### Tech Stack
 
-Python • Scikit-Learn • SHAP • Streamlit • Power BI  
+Python • Scikit-Learn • SHAP • Streamlit • Power BI
 
-🔗 Live Demo  
-https://credit-risk-scorecard.streamlit.app  
+🔗 **Live Demo**  
+https://credit-risk-scorecard.streamlit.app
 
-🔗 Repository  
+🔗 **Repository**  
 https://github.com/ParasJain03/Credit-Risk-Scorecard
 
 ---
 
-## 📊 Customer Churn Analytics
+## 📊 Customer Churn Analysis — SQL, Power BI & Machine Learning
 
-End-to-end **customer churn analytics project** using SQL, Power BI, and machine learning.
+An **end-to-end telecom churn analytics project** that analyzes historical churn behavior and predicts customers likely to leave using machine learning.
 
-Pipeline
+### Data Pipeline
 
-CSV → SQL Server ETL → Data Cleaning → Power BI Dashboard → Random Forest Prediction  
+CSV Dataset → SQL Server ETL → Data Cleaning → Power BI Dashboard → Random Forest Model → Churn Prediction
 
-Business Insights
+### Key Features
 
-• Identifies high-risk churn segments  
-• Analyzes churn by demographics and services  
-• Predicts future churners using ML models  
+• Built SQL **ETL pipeline** for telecom customer data  
+• Developed **interactive Power BI dashboards** for churn insights  
+• Performed **customer segmentation and churn driver analysis**  
+• Trained **Random Forest model (~88% accuracy)**  
+• Identified **high-risk churn segments for retention campaigns**
 
-Tools Used
+### Tech Stack
 
-SQL Server • Power BI • Python • Scikit-Learn
+Python • SQL Server • Power BI • Pandas • Scikit-Learn
+
+🔗 **Repository**  
+https://github.com/ParasJain03/customer-churn-analysis
 
 ---
 
 # 🛠 Technical Skills
 
 ### Programming
-Python  
-SQL  
+Python • SQL
 
 ### Data Analysis
-Pandas  
-NumPy  
+Pandas • NumPy
 
 ### Data Visualization
-Power BI  
-Matplotlib  
-Seaborn  
+Power BI • Matplotlib • Seaborn
 
 ### Machine Learning
-Logistic Regression  
-Random Forest  
-Model Evaluation  
+Logistic Regression • Random Forest • Model Evaluation
 
 ### Tools
-Git  
-GitHub  
-Jupyter Notebook  
-Google Colab  
+Git • GitHub • Jupyter Notebook • Google Colab
 
 ---
-
 
 # 📚 Currently Learning
 
